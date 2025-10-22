@@ -7,7 +7,6 @@
 
 ---
 
-## Приложение:
 ![Expense Tracker Screenshot](ExpenseTracker/screenshots/Screen.png)
 
 ---
