@@ -8,6 +8,6 @@
 ---
 
 ## Приложение:
-![Expense Tracker Screenshot](screenshots/Screen.png)
+![Expense Tracker Screenshot](ExpenseTracker/screenshots/Screen.png)
 
 ---
